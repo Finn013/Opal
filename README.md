@@ -84,6 +84,7 @@ Opal хранит данные в JSON-файле в вашем репозито
 | Любой браузер | Скачайте `Opal.html` из [Releases](https://github.com/Finn013/Opal/releases) и откройте | ✅ Доступно |
 | Android 7+ | Скачайте `Opal.apk` из [Releases](https://github.com/Finn013/Opal/releases) и установите. Вход по отпечатку / лицу — Android 9+ | ✅ Доступно |
 | Windows | `Opal-Setup.exe` — установщик, `Opal-Portable.exe` — без установки, данные рядом с файлом | ✅ Доступно |
+| iPhone, iPad, Mac | Откройте [finn013.github.io/Opal](https://finn013.github.io/Opal/) в Safari → «Поделиться» → «На экран Домой» (на Mac: «Файл» → «Добавить в Dock»). Работает офлайн | ✅ Доступно |
 
 ## 💬 Идеи и отзывы
 
@@ -163,6 +164,7 @@ You can keep several diaries at once: just give each one **its own sync file nam
 | Any browser | Download `Opal.html` from [Releases](https://github.com/Finn013/Opal/releases) and open it | ✅ Available |
 | Android 7+ | Download `Opal.apk` from [Releases](https://github.com/Finn013/Opal/releases) and install it. Fingerprint / face unlock needs Android 9+ | ✅ Available |
 | Windows | `Opal-Setup.exe` — installer, `Opal-Portable.exe` — no install, data kept next to the file | ✅ Available |
+| iPhone, iPad, Mac | Open [finn013.github.io/Opal](https://finn013.github.io/Opal/) in Safari → Share → “Add to Home Screen” (on Mac: File → “Add to Dock”). Works offline | ✅ Available |
 
 > The app interface is currently in Russian.
 
